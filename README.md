@@ -1,2 +1,2 @@
 # LaravelProject
- My Laravel Practice
+ This is my first Laravel practice
